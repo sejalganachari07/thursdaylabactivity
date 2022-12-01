@@ -5,7 +5,7 @@ package activity_3;
 		public static void main(String[] args) {
 			String s="vaibhav_davargave";
 			boolean b=false;
-			for(int i=0;i<s.length();i++)       //logic for checking sequence of letters
+			for(int i=0;i<s.length();i++)     
 			{
 				if(s.charAt(i)=='_')
 				{
